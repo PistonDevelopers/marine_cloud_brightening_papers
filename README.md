@@ -1,7 +1,7 @@
 # marine_cloud_brightening_papers
 These papers are temporarily hosted here with permission from [Prof Stephen Salter](https://www.eng.ed.ac.uk/about/people/prof-stephen-salter).
 
-[Why is the Pisto project involved in solving climate change?](https://github.com/PistonDevelopers/marine_cloud_brightening_papers/issues/2)
+[Why is the Piston project involved in solving climate change?](https://github.com/PistonDevelopers/marine_cloud_brightening_papers/issues/2)
 
 Blog posts:
 
